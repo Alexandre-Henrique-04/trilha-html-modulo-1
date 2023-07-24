@@ -1,6 +1,6 @@
 # Trilha HTML - Módulo 1
 
-Este é um projeto que faz parte da trilha HTML do curso de desenvolvimento web da [Digital Innovation One](https://digitalinnovation.one/). Você pode conferir o resultado aqui: https://alexandre-henrique-04.github.io/trilha-html-modulo-1/. O objetivo deste projeto é criar uma página web simples usando apenas HTML.
+Este é um projeto que faz parte da trilha HTML do curso de desenvolvimento web da [Digital Innovation One](https://digitalinnovation.one/). Você pode conferir o resultado <a href="https://alexandre-henrique-04.github.io/trilha-html-modulo-1/">aqui</a>. O objetivo deste projeto é criar uma página web simples usando apenas HTML.
 
 ## O que eu aprendi
 
